@@ -1,0 +1,13 @@
+﻿1. How long did you spend on the technical task? 
+	It took me around 4hrs to complete the given technical task.
+
+2. If you had more time, would you add anything to your solution?
+	I would have implemented following points if I had more time-
+	1. Implement reusable methods which will return the webdriver wait for leveraging explicit waits.
+	2. Add report/logging for getting better results like Extent report or living doc.
+	3. Comments on the methods for better understanding of code
+	4. Json file to store Test data and util to read the data from Json file.
+
+3. What do you think is the most interesting trend in test automation
+   Introduction of new tools for automation is providing better coverage and faster execution and linking them with AI tools like co-pilot helps in acheiving faster development. 
+   Adapting the shift left policy of introducing Automation in early phases of development helps in execution of scripts at earlier stage and reduces the manual efforts.

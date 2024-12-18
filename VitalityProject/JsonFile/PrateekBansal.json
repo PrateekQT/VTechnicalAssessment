@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Prateek Bansal",
+  "Personal Details": {
+    "City": "Delhi",
+    "Country": "India",
+    "MobileNumber": "+919716391761",
+    "Email": "prateekbansal17@gmail.com"
+  },
+  "Professional Details": {
+    "YearsOfExp": 11,
+    "CurrentOrganization": "Qualitest",
+    "Designation":  "Architect",
+    "Skills": ["Automation Testing", "Functional Testing", "Selenium", "C#"]
+  }
+}
